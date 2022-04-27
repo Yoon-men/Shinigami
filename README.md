@@ -1,2 +1,2 @@
-# -
-2022 / Shinigami
+# Shinigami
+> "Go to hell, motherfuxker."
